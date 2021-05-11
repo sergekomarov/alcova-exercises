@@ -1,3 +1,3 @@
 # orderbook-simulation
 
-Please see `orderbook_simulation` notebook.
+Please see the `orderbook_simulation.ipynb` notebook.
